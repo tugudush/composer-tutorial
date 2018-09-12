@@ -1,0 +1,13 @@
+{
+    "name": "tugudush/composer-tutorial",
+    "description": "Learning Composer",
+    "require": {
+        "fzaninotto/faker": "^1.8"
+    },
+    "authors": [
+        {
+            "name": "tugudush",
+            "email": "jerome2kph@gmail.com"
+        }
+    ]
+}
